@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Sweety Ludo",
+  "description": "A 2D Isometric dessert-themed Ludo game for Android with high-height cages, safe spots, and rich animations. dev trên nền tảng cocos 3x",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

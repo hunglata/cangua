@@ -1,0 +1,2 @@
+Hãy đặt file nhạc nền của bạn (định dạng .mp3, .wav, .ogg, hoặc .m4a) vào thư mục này để làm nhạc nền cho game!
+Hệ thống đã được thiết lập tự động tìm kiếm bất kỳ file nhạc nào trong thư mục này để phát làm nhạc nền.
